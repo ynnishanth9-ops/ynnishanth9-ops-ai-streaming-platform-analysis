@@ -106,14 +106,6 @@ Predict IMDb rating from movie metadata and use predictions to fill missing rati
   - `RandomForestRegressor` as the model
 - Train/test split using `train_test_split`.
 
-### Metrics
-
-_(Replace with your actual values from the console if you like)_
-
-- MAE (Mean Absolute Error): **X.XXX**
-- RMSE (Root Mean Squared Error): **Y.YYY**
-- R² (Coefficient of Determination): **Z.ZZZ**
-
 ### AI-Enhanced Platform Comparison
 
 - Use the trained model to predict IMDb for movies with missing ratings.
