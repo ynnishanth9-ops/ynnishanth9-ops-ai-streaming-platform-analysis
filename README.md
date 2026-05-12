@@ -1,4 +1,4 @@
-# AI-Driven Streaming Platform Analysis
+# AI Streaming Platform Analysis
 
 This project analyzes and compares major streaming platforms (Netflix, Hulu, Prime Video, Disney+) using a dataset of ~16k movies, and applies machine learning to predict IMDb ratings and compute AI-enhanced platform quality scores.
 
